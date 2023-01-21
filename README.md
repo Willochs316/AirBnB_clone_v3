@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Willochs Ojigbo - [Github](https://github.com/willochs316) / [Twitter](https://twitter.com/_willochs316)  
-Abdulaziz Ahmed - [Github](https://github.com/username) / [Twitter](https://twitter.com/username)
+Abdulaziz Ahmed - [Github](https://github.com/zizuAhmedMohammed) / [Twitter](https://twitter.com/azizazu0507)
 
 Second part of Airbnb: Joann Vuong
 ## License
